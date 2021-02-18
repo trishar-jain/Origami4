@@ -1,0 +1,150 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+.header{
+    display: flex;
+    height: 400px;
+    background-image: url(woodbg.png);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    
+
+    
+}
+
+body{
+
+    background-color: #ffffff;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.paragraph{
+    color: white;
+    display: flexbox;
+    height: 400px;
+    background-image: url(woodbg.PNG);
+    background-repeat: no-repeat;
+    background-size: 2400px 14000px;
+    text-align: center;
+    font-size: 40px;
+}
+.flex-container{
+display: flex;
+font-weight:bold;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.flexbox-item-1{
+    display: grid;
+    width: 550px;
+    height: 650px;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 50px;
+    text-align:center;
+    font-size: 30px; 
+    color: rgb(236, 108, 48);
+    background-color: rgb(224, 187, 138);
+    opacity: 0.44;
+}
+.flexbox-item-2{
+    display: grid;
+    background-color: rgb(55, 255, 81);
+    width: 550px;
+    height: 650px;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 50px;
+    text-align:center;
+    font-size: 30px; 
+    color: rgb(24, 100, 8);
+  opacity: 0.44;
+}
+.flexbox-item-3{
+    display: grid;
+    background-color: aqua;
+    width: 550px;
+    height: 650px;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 50px;
+    text-align:center;
+    font-size: 30px; 
+    color: rgb(57, 83, 168);
+    opacity: 0.44;
+}
+.flexbox-item-4{
+    display: grid;
+    background-color:rgb(216, 216, 17);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    width: 550px;
+    height: 650px;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 50px;
+    text-align:center;
+    font-size: 30px; 
+    color: rgb(87, 82, 40);
+    opacity: 0.44;
+}
+.flexbox-item-5{
+    display: grid;
+    background-color: darkolivegreen;
+    width: 550px;
+    height: 650px;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 50px;
+    text-align:center;
+    font-size: 30px; 
+    color: rgb(44, 212, 44);
+    opacity: 0.44;
+}
+
+.flexbox-item-6{
+    display: grid;
+    background-color: darkslategrey;
+    width: 550px;
+    height: 650px;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 50px;
+    text-align:center;
+    font-size: 30px; 
+    color: rgb(94, 154, 211);
+    opacity: 0.44;
+}
+
+.flexbox-item-1:hover{
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.flexbox-item-2:hover{
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.flexbox-item-3:hover{
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.flexbox-item-4:hover{
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.flexbox-item-5:hover{
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.flexbox-item-6:hover{
+    transform: scale(1.2);
+    opacity: 1;
+}
